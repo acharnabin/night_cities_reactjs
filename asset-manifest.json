@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/night_cities_reactjs/static/css/main.8b935f88.chunk.css",
+    "main.js": "/night_cities_reactjs/static/js/main.1e8b8d4c.chunk.js",
+    "main.js.map": "/night_cities_reactjs/static/js/main.1e8b8d4c.chunk.js.map",
+    "runtime-main.js": "/night_cities_reactjs/static/js/runtime-main.5e469242.js",
+    "runtime-main.js.map": "/night_cities_reactjs/static/js/runtime-main.5e469242.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/night_cities_reactjs/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.57151ff7.chunk.js": "/night_cities_reactjs/static/js/2.57151ff7.chunk.js",
+    "static/js/2.57151ff7.chunk.js.map": "/night_cities_reactjs/static/js/2.57151ff7.chunk.js.map",
+    "static/js/3.68665370.chunk.js": "/night_cities_reactjs/static/js/3.68665370.chunk.js",
+    "static/js/3.68665370.chunk.js.map": "/night_cities_reactjs/static/js/3.68665370.chunk.js.map",
+    "index.html": "/night_cities_reactjs/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/night_cities_reactjs/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.8b935f88.chunk.css.map": "/night_cities_reactjs/static/css/main.8b935f88.chunk.css.map",
+    "static/js/2.57151ff7.chunk.js.LICENSE.txt": "/night_cities_reactjs/static/js/2.57151ff7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e469242.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.57151ff7.chunk.js",
+    "static/css/main.8b935f88.chunk.css",
+    "static/js/main.1e8b8d4c.chunk.js"
+  ]
+}
