@@ -1,16 +1,18 @@
 import React from 'react'
 import '../css/navbar.css'
+import PhoneIcon from '@material-ui/icons/Phone';
+
 const Navbar = () => {
     return (
         <div className="navBar container">
         <div className="navLogo">
-            Nightcities
+            nabinachar<span className="logo_color">.</span>com
         </div>
-        <div className="navLinks">
-            <a href="/">Events</a>
-            <a href="/">Tours</a>
-            <a href="/">Clubs</a>
-            <a href="/">Bookings</a>
+        <div className="navbtn">
+            <button className="button">
+                <PhoneIcon fontSize="medium"/>
+                <span className="mx-2">6289689435</span>
+            </button>
         </div>
     </div>
     )
